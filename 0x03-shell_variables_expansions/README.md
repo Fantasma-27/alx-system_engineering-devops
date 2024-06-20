@@ -1,1 +1,1 @@
-this is a readme for project shell, init files, variables and expansions
+this is a readme for the task on shell variables and expansions
