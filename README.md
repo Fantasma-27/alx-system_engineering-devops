@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This is a repository for the first few shell projects for ALX SE
+this is a readme for the repo that has the shell projects for alx
